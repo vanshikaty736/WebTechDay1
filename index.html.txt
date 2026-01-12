@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Summative Test-II Mathematics Class VIII</title>
+</head>
+<body>
+
+    <h1>MODEL QUESTION PAPER FOR SUMMATIVE TEST - II</h1>
+    <h2>Mathematics - Class VIII</h2>
+    <p><strong>Maximum Marks:</strong> 20</p>
+
+    <h3>General Instructions:</h3>
+    <ol>
+        <li>All questions are compulsory.</li>
+        <li>The question paper consists of 7 questions divided into 2 sections A and B.</li>
+        <li>Section A contains 4 questions of 2 marks each.</li>
+        <li>Section B contains 3 questions of 4 marks each.</li>
+    </ol>
+
+    <h3>SECTION A</h3>
+
+    <form>
+        <p><strong>Q1:</strong> What will be the product of (a<sup>2</sup>) × (2a<sup>22</sup>) × (4a<sup>26</sup>)?</p>
+        <input type="radio" name="q1" value="a"> (a) 8a<sup>46</sup><br>
+        <input type="radio" name="q1" value="b"> (b) 8a<sup>48</sup><br>
+        <input type="radio" name="q1" value="c"> (c) 6a<sup>50</sup><br>
+        <input type="radio" name="q1" value="d"> (d) 8a<sup>50</sup><br>
+
+        <p><strong>Q2:</strong> Water is oxidised to oxygen by:</p>
+        <input type="radio" name="q2" value="a"> (a) H<sub>2</sub>O<sub>2</sub><br>
+        <input type="radio" name="q2" value="b"> (b) KMnO<sub>4</sub><br>
+        <input type="radio" name="q2" value="c"> (c) ClO<sub>2</sub><br>
+        <input type="radio" name="q2" value="d"> (d) Fluorine<br>
+    </form>
+
+</body>
+</html>
